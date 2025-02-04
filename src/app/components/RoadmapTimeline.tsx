@@ -131,7 +131,18 @@ const RoadmapTimeline = () => {
                     <time className="!text-[#919191] group-hover:!text-white">
                       {e.date}
                     </time>
-                    {e.description}
+                    {e.link ? (
+                      <a
+                        href={e.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:underline ml-2"
+                      >
+                        {e.description}
+                      </a>
+                    ) : (
+                      <span>{e.description}</span>
+                    )}
                   </div>
                 </li>
               ))}
