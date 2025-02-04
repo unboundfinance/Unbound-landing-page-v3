@@ -310,7 +310,7 @@ const Home = () => {
                   height={720}
                 />
                 <div
-                  className="absolute -top-20 left-0 w-[500px] h-[800px] rotate-[-70deg] rounded-full blur-3xl -z-10"
+                  className="absolute -top-20 left-0 w=[500px] h-[800px] rotate-[-70deg] rounded-full blur-3xl -z-10"
                   style={{
                     background:
                       "radial-gradient(ellipse at center, #00487080 0%, #18191F 100%)",
@@ -426,7 +426,7 @@ const Home = () => {
               <p className="text-white text-8xl leading-snug">Introducing</p>
               <p className="text-secondary text-8xl">The Unbound DAO</p>
               <p className="text-white mt-8 text-xl font-light text-center leading-loose md:w-[80%]">
-                As a community-owned protocol, Unbound Governance empowers UNB token holders to influence the protocol's direction through decentralized decision-making.
+                As a community-owned protocol, Unbound Governance empowers UNB token holders to influence the protocol&apos;s direction. Each token holder plays an important role in shaping the protocol&apos;s future by participating in voting on all protocol decisions. The combined voices of token holders steer the protocol&apos;s development, ensuring it remains aligned with the community&apos;s values and aspirations.
               </p>
             </div>
             <div className="mt-8 flex items-center space-x-4">
@@ -475,7 +475,7 @@ const Home = () => {
 
       {/* BACKGROUND EFFECT */}
       <div
-        className="absolute w-[1000px] h-[500px] -right-10 top-10 rotate-[-70deg] rounded-full blur-3xl"
+        className="absolute w=[1000px] h=[500px] -right-10 top-10 rotate-[-70deg] rounded-full blur-3xl"
         style={{
           background: "radial-gradient(ellipse at center, #00F9FF30 0%, #18191F 100%)",
         }}
