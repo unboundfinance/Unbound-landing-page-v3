@@ -14,6 +14,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     {
       date: "April 2020",
       description: "First draft of the whitepaper is released.",
+      link: "https://wiki.unbound.finance/"
       
     },
     {
@@ -27,11 +28,12 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     {
       date: "August 2020",
       description: "Official registration of the Unbound Finance domain name.",
-      link: "https://unbound.finance"
+      
     },
     {
       date: "December 2020",
       description: "Release of the inaugural official whitepaper.",
+       link: "https://wiki.unbound.finance/"
       
     },
   ],
@@ -39,7 +41,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     {
       date: "February 2021",
       description: "Unbound releases its application and landing page.",
-      link: "https://x.com/unboundfinance/status/1776211603488162195"
+      
     },
     {
       date: "April 14th, 2021",
