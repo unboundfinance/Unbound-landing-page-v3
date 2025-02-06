@@ -19,7 +19,6 @@ import BorrowIcon from "@/app/assets/images/png/borrow.png";
 import RewardIcon from "@/app/assets/images/png/reward.png";
 import RepaymentIcon from "@/app/assets/images/png/repayment.png";
 import XIcon from "@/app/assets/images/svg/x.svg";
-import MediumIcon from "@/app/assets/images/svg/medium.svg";
 import GithubIcon from "@/app/assets/images/svg/github.svg";
 import BnbLogo from "@/app/assets/images/svg/bnb-bnb-logo.svg";
 import { Poppins } from "next/font/google";
@@ -86,11 +85,7 @@ const Home = () => {
         href: "https://twitter.com/unboundfinance",
         icon: XIcon,
       },
-      {
-        title: "Medium",
-        href: "https://unboundfinance.medium.com/",
-        icon: MediumIcon,
-      },
+  
       {
         title: "Github",
         href: "https://github.com/unbound-finance/",
