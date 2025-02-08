@@ -14,7 +14,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     {
       date: "April 2020",
       description: "First draft of the whitepaper is released.",
-      link: "https://docs.unbound.finance"
+      link: "https://wiki.unbound.finance"
     },
     {
       date: "May 2020",
@@ -79,15 +79,11 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     }
   ],
   "2023": [
-    {
-      date: "January 8th, 2023",
-      description: "Unbound V2 Second Security Audit completed",
-      link: "https://unbound.finance/roadmap/january-2023"
-    },
+
     {
       date: "March 25th, 2023",
       description: "UNB ready and live for trading on Changelly",
-      link: "https://unbound.finance/roadmap/march-2023"
+      link: "https://x.com/Changelly_team/status/1639246809477382146"
     },
     {
       date: "April 5th, 2023",
@@ -96,19 +92,16 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     }
   ],
   "2024": [
-    {
-      date: "February 2024",
-      description: "Unbound server launched on Discord",
-      link: "https://unbound.finance/roadmap/february-2024"
-    },
+
     {
       date: "April 2024",
       description: "Website and application revamped for an enhanced user experience.",
-      link: "https://unbound.finance/roadmap/april-2024"
+      link: "https://unbound.finance/"
     },
     {
       date: "14th May 2024",
       description: "Unbound DAO live",
+      link:"https://x.com/unboundfinance/status/1768539959357788395"
     },
   ],
 };
