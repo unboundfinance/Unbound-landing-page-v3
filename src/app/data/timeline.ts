@@ -83,10 +83,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       date: "December 13th, 2021",
       description: "Unbound partners with Avalache work.",
     },
-    {
-      date: "December 14th, 2021",
-      description: "IEO commences on HuobiGlobal.",
-    },
+
     {
       date: "December 17th, 2021",
       description: "UNB staking live on Kucoin.",
