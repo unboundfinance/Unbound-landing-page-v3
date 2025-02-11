@@ -39,7 +39,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     {
       date: "February 2021",
       description: "Unbound releases its application and landing page.",
-      link:"https://x.com/unboundfinance/status/1776211603488162195"
+     
     },
     {
       date: "April 14th, 2021",
