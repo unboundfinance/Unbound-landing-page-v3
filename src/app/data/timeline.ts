@@ -50,10 +50,6 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       description: "Unbound Finance closes its first round of investment.",
     },
     {
-      date: "August 15th, 2021",
-      description: "Unbound debuts the first-ever Cross-Chain stablecoin UND on Polygon.",
-    },
-    {
       date: "August 19th, 2021",
       description: "Unbound unveils its initial official Roadmap.",
     },
@@ -105,12 +101,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       description: "Unbound on-chain staking live on Ethereum and BSC",
       
     },
-    {
-      date: "February 17th, 2022",
-      description: "Unbound partners with Quickswap",
-      link:"https://x.com/unboundfinance/status/1499436102931070983?lang=ar"
-     
-    },
+
     {
       date: "March 2nd, 2022",
       description: "Unbound goes live on Polygon mainnet",
@@ -152,16 +143,12 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     },
     {
       date: "June 14th, 2022",
-      description: "$UND flexible staking live on Kucoin",
+      description: "$UNB flexible staking live on Kucoin",
       link:"https://x.com/unboundfinance/status/1536276972900618240"
     },
     {
       date: "June 25th, 2022",
       description: "Unbound partners with Pangolin",
-    },
-    {
-      date: "June 28th, 2022",
-      description: "Unbound live on Avalanche mainnet",
     },
     {
       date: "August 1st, 2022",
