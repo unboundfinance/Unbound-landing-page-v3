@@ -75,10 +75,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       date: "November 18th, 2021",
       description: "Unbound partners with Avalache work."
     },
-    {
-      date: "December 13th, 2021",
-      description: "Unbound partners with Avalache work.",
-    },
+  
 
     {
       date: "December 17th, 2021",
