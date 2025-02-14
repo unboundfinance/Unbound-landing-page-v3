@@ -59,12 +59,12 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
     },
     {
       date: "September 28th, 2021",
-      description: "Unbound Sandbox mainnet live on Ethereum.",
+      description: "Unbound Sandbox live on Ethereum Mainnet.",
       link:"https://x.com/unboundfinance/status/1442738278688456705"
     },
     {
       date: "November 4th, 2021",
-      description: "Unbound goes mainnet live on Ethereum.",
+      description: "Unbound goes live on Ethereum mainnet.",
     },
     {
       date: "November 5th, 2021",
@@ -75,20 +75,19 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       date: "November 18th, 2021",
       description: "Unbound partners with Avalache work."
     },
-  
-
     {
-      date: "December 17th, 2021",
-      description: "UNB staking live on Kucoin.",
+      date: "December 18th, 2021",
+      description: "Unbound partners with Avalache work."
     },
+    
     {
       date: "December 17th, 2021",
-      description: "UNB deposits and withdrawals available on MEXC.",
+      description: "UNB listing available on MEXC.",
       link:"https://x.com/unboundfinance/status/1471802223441027072"
     },
     {
       date: "December 20th, 2021",
-      description: "UNB flexible promotion live",
+      description: "UNB listing available on gateio",
     }
     
  ],
@@ -104,12 +103,7 @@ export const roadmapEvents: { [year: string]: RoadmapEvent[] } = {
       description: "Unbound goes live on Polygon mainnet",
       link: "https://x.com/unboundfinance/status/1499057847010996225"
     },
-    {
-      date: "March 2nd, 2022",
-      description: "Unbounder UNB Flexible Staking on Kucoin",
-      link:"https://x.com/unboundfinance/status/1536276972900618240"
-     
-    },
+
     {
       date: "March 3rd, 2022",
       description: "Unbound partners with Quickswap",
